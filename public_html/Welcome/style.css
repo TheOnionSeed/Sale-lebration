@@ -1,0 +1,17 @@
+#wrapper{
+width:852px;
+height:480px;
+}
+#image_background{
+display:none;
+}
+
+
+
+
+
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
